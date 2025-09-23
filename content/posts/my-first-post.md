@@ -16,6 +16,8 @@ Good design:
 
 <img src='/images/p6.png' width=70% height=70% />
 
+![Volume Button](/haining-yu/images/p1.jpg "Volume Button")
+
 ![Volume Button](/images/p1.jpg "Volume Button")    
 Description: The volume button on the side of the phone.  
 Why it's good: The raised, elongated shape suggests a "press," and its placement aligns with the natural resting point of the finger when holding the phone.  
