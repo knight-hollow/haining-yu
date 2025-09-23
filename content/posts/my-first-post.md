@@ -1,5 +1,5 @@
 +++ 
-draft = flase
+draft = false
 date = 2025-09-22T20:53:34+02:00
 title = "HW1"
 description = ""
