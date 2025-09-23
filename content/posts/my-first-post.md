@@ -16,12 +16,12 @@ Good design:
 
 <img src='/images/p6.png' width=70% height=70% />
 
-![Volume Button](static/images/p1.jpg "Volume Button")    
+![Volume Button](/images/p1.jpg "Volume Button")    
 Description: The volume button on the side of the phone.  
 Why it's good: The raised, elongated shape suggests a "press," and its placement aligns with the natural resting point of the finger when holding the phone.  
 
 Bad design:  
-[Switchs](/images/p2.jpg "Switchs")  
+![Switchs](images/p2.jpg "Switchs")  
 Description: A row of identical flat-pressure switches each controls a different light source. Users cannot determine which light a switch controls by looking at its state, forcing them to rely on memorization or trial and error.
 
 Why it's bad: There's no clear "mapping" between the switch state (on/off) and the object it controls.
