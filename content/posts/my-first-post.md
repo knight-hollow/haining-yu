@@ -13,7 +13,9 @@ series = []
 
 ### Affordance
 Good design:  
+
 <img src='/images/p6.png' width=70% height=70% />
+
 ![Volume Button](static/images/p1.jpg "Volume Button")    
 Description: The volume button on the side of the phone.  
 Why it's good: The raised, elongated shape suggests a "press," and its placement aligns with the natural resting point of the finger when holding the phone.  
