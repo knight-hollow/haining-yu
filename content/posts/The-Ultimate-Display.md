@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-10-21T11:35:09+02:00
+date = 2025-10-10T11:35:09+02:00
 title = "The Ultimate Display"
 description = ""
 slug = ""

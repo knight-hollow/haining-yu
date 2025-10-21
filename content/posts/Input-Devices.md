@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-10-21T12:54:27+02:00
+date = 2025-10-10T12:54:27+02:00
 title = "Input Devices - Haptic Glove"
 description = ""
 slug = ""

@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-10-20T23:47:58+02:00
+date = 2025-10-09T23:47:58+02:00
 title = "HCI Researcher - Hong Mei"
 description = ""
 slug = ""
