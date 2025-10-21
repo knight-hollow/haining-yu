@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-10-11T13:43:21+02:00
 title = "AR Some ideas"
 description = ""
