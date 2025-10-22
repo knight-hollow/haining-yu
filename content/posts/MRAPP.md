@@ -1,6 +1,6 @@
 +++ 
-draft = true
-date = 2025-10-22T22:30:06+02:00
+draft = false
+date = 2025-10-19T22:30:06+02:00
 title = "MR application"
 description = ""
 slug = ""

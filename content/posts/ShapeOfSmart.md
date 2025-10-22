@@ -1,6 +1,6 @@
 +++ 
-draft = true
-date = 2025-10-22T21:56:50+02:00
+draft = false
+date = 2025-10-19T21:56:50+02:00
 title = "Shape of SmartPhone"
 description = ""
 slug = ""

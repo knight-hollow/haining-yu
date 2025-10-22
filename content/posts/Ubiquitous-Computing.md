@@ -1,6 +1,6 @@
 +++ 
-draft = true
-date = 2025-10-22T22:20:19+02:00
+draft = false
+date = 2025-10-19T22:20:19+02:00
 title = "The Computer for the 21st Century"
 description = ""
 slug = ""
