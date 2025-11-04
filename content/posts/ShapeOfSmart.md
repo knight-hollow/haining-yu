@@ -19,7 +19,7 @@ From bulky handsets to foldable screens, the evolution of smartphone form factor
 Before the smartphone era, mobile phones appeared in a variety of forms — bar, flip, and slide.  
 These designs were largely functional:
 - Bar phones (e.g., Nokia 3310) prioritized durability and battery life.    
-![Bar phones](/haining-yu/images/nokia.png "Nokia 3310")  
+{{< figure src="/images/nokia.png" title="Nokia 3310" width="300px" >}}  
 - Flip phones (e.g., Motorola Razr) introduced compactness and screen protection.    
 ![Flip phones](/haining-yu/images/moto.png "Motorola Razr")    
 - Slide phones combined a hidden keyboard with a sleek design, offering a balance between usability and style.     
