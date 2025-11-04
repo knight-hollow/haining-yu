@@ -1,11 +1,11 @@
 +++ 
 draft = false
 date = 2025-09-22T20:53:34+02:00
-title = "HW1"
+title = "Affordance, Gestalt Laws and Dark design pattern"
 description = ""
 slug = ""
 authors = ["Haining"]
-tags = ["HCI", "Affordance", "Gestalt Laws", "Dark design pattern"]
+tags = ["HCI", "Affordance", "Gestalt Laws", "Dark design pattern", "Lecture 1 - 3"]
 categories = []
 externalLink = ""
 series = []

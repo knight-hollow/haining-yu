@@ -5,7 +5,7 @@ title = "AR Some ideas"
 description = ""
 slug = ""
 authors = ["Haining"]
-tags = ["AR"]
+tags = ["AR", "Lecture 7 - 9"]
 categories = []
 externalLink = ""
 series = []
@@ -13,17 +13,20 @@ series = []
 
 ## Ideas
 - AR Fitness Coach
+![Coach](/haining-yu/images/coach.png "Fitness Coach")
 The AR Fitness Coach is an augmented reality training assistant designed to guide users during physical exercises.  
 Using body tracking and spatial visualization, the system overlays a virtual coach within the user’s real environment.  
 It demonstrates correct posture, movement rhythm, and breathing techniques in real time.  
 The system is particularly useful for people exercising at home without professional supervision — helping them improve form, avoid injury, and stay motivated.
 
 - AR Navigation View
+![Navigation](/haining-yu/images/Nav.png "Navigation")
 The AR Navigation View aims to improve spatial awareness and safety during navigation in complex environments, such as cities or large campuses.  
 Through an AR headset or smartphone camera, virtual directional arrows, distance markers, and contextual points of interest (e.g., restaurants, exits, bus stops) are overlaid directly onto the real-world view.  
 Unlike traditional 2D maps, this system merges navigation and reality, reducing cognitive load and allowing users to navigate intuitively.
 
 - AR Learning Enhancer
+![Learning Enhancer](/haining-yu/images/learn.png "Learning Enhancer")
 The AR Learning Enhancer is an augmented reality system designed to support knowledge retention and comprehension in education.  
 When students study complex subjects (e.g., biology, physics, or history), the system overlays visual explanations — such as 3D molecule models, dynamic equations, or historical reconstructions — directly onto physical textbooks or classroom environments.   
 By merging text with interactive visuals, it transforms passive reading into multisensory exploration, encouraging deeper understanding.
