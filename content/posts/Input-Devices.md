@@ -11,7 +11,10 @@ externalLink = ""
 series = []
 +++
 ## Interface Classification and Working Principle
-![Haptic Glove](/haining-yu/images/glove.png "Haptic Glove")   
+<div style="text-align: center;">  
+<img src="/haining-yu/images/glove.png" alt="Haptic Glove" width="200">
+</div> 
+
 The **Haptic Glove** is a **wearable haptic user interface** designed to provide tactile and kinesthetic feedback during interaction with digital or virtual environments. It belongs to the category of **Tangible User Interfaces (TUI)** and **Multimodal Interaction Systems**, where users engage through multiple senses—sight, sound, and touch.
 A typical haptic glove integrates **flex sensors** to detect finger bending, **inertial measurement units (IMUs)** to capture hand motion, and actuators such as vibration motors or force-feedback mechanisms to simulate pressure, texture, or resistance. In immersive systems like **VR** and **AR**, the glove allows users not only to see but also to feel virtual objects—for example, grasping a virtual cup or pushing a virtual door with realistic feedback. This transforms interaction from abstract controller input to direct, embodied manipulation.
 

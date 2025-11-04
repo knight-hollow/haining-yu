@@ -14,7 +14,9 @@ series = []
 ## **Current Role and Expertise**
 Prof. Hong Mei is a Distinguished Professor of Computer Science at Peking University and an Academician of the Chinese Academy of Engineering. He is a leading figure in the field of software engineering and intelligent human–computer systems in China. His expertise spans **human–AI collaboration**, **software architecture**, and **intelligent interactive systems**. Prof. Mei’s work focuses on integrating artificial intelligence into software systems to enable more adaptive, explainable, and human-centered interaction experiences.
 
-![HongMei](/haining-yu/images/mei-hong.png "Hong Mei")
+<div style="text-align: center;">  
+<img src="/haining-yu/images/mei-hong.png" alt="Hong Mei" width="200">
+</div> 
 
 ## **Research Focus**
 Prof. Mei’s current research emphasizes the development of **trustworthy and explainable AI-driven interactive systems**. His team explores how intelligent software agents can collaborate effectively with humans in complex decision-making scenarios. He also investigates **human-centered software design** that incorporates cognitive and social factors into computing systems. The goal of his research is to build **transparent, interpretable, and collaborative AI systems** that promote human understanding, trust, and control in digital environments.

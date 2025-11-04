@@ -23,9 +23,13 @@ These designs were largely functional:
 <img src="/haining-yu/images/nokia.png" alt="Nokia 3310" width="200">
 </div>
 - Flip phones (e.g., Motorola Razr) introduced compactness and screen protection.    
-![Flip phones](/haining-yu/images/moto.png "Motorola Razr")    
-- Slide phones combined a hidden keyboard with a sleek design, offering a balance between usability and style.     
-![Slide phones](/haining-yu/images/slide.png "Nokia 5300")    
+<div style="text-align: center;">  
+<img src="/haining-yu/images/moto.png" alt="Motorola Razr" width="200">
+</div> 
+- Slide phones combined a hidden keyboard with a sleek design, offering a balance between usability and style.       
+<div style="text-align: center;">  
+<img src="/haining-yu/images/slide.png" alt="Nokia 5300" width="200">
+</div> 
 
 These early shapes established the first design principles of personal mobility: compactness, protection, and ease of grip.
 
