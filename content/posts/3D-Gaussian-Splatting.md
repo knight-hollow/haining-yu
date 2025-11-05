@@ -24,7 +24,6 @@ each defined by its position, color, opacity, and covariance (shape/orientation)
 
 Essentially, the 3D world is represented as a *field of Gaussian points* that blend together during rendering, producing a photo-realistic model.
 
----
 
 ## Generating Point Clouds with the Brush Web Demo
 
@@ -34,7 +33,6 @@ You can easily create and train Gaussian splats using the online **Brush Demo**:
 
 This web demo allows you to load multi-view images or datasets, train a Gaussian Splat model, and export the resulting `.ply` point cloud file.
 
----
 
 ### Step 1. Load Data
 
@@ -68,8 +66,6 @@ Recommended configuration:
 | **Subsample Points** | Enabled | Improves performance |
 | **Evaluate Every** | 1000 steps | Saves checkpoints during training |
 
----
-
 ### Step 3. Start Training
 
 Click **Start** to begin training.  
@@ -80,13 +76,12 @@ You can monitor:
 
 As training progresses, the reconstructed scene will appear in the right preview window.
 
----
 
 ### Step 4. Export the Point Cloud
 
 Once training is complete: The system will export a `.ply` file containing all Gaussian points with their color and spatial parameters.
 <div style="text-align: center;">  
-<img src="/haining-yu/images/brush-setting.png" alt="Brush Training Settings" width="600">
+<img src="/haining-yu/images/export.png" alt="Brush Training Settings" width="600">
 </div> 
 
 ## 3. Clean and Edit the Point Cloud in Supersplat
