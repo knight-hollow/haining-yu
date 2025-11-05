@@ -128,6 +128,11 @@ usage: mlagents-learn [-h] [--env ENV_PATH] [--resume] [--deterministic]
 | **Sphere** | Agent | Add Rigidbody component |
 | **Cube** | Target | The goal the agent should reach |
 | **Empty Object (RollerBall)** | Manager | Parent object for organization |
+
+<div style="text-align: center;">  
+<img src="/haining-yu/images/test.png" alt="Unitytest" width="400">
+</div> 
+
 ### Add Components to the Agent (Sphere)
 - **Rigidbody** → Enable gravity  
 - **Decision Requester**  
