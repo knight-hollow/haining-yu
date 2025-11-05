@@ -172,6 +172,12 @@ Follow these steps:
 3. Tap your Apple ID → **Trust This Developer**  
 4. Reopen the app on your device  
 
+## Assets and Attribution
+
+All **3D models, textures, sound effects, and UI elements** used in this project were **downloaded from publicly available online sources**.  
+They are used **solely for educational and research purposes**, following fair-use and non-commercial guidelines.  
+If any original authors of the materials request removal or attribution, appropriate credit or deletion will be provided.
+
 **Now Enjoy My Game - Little Adventure**
 <video width="720" controls>
   <source src="/haining-yu/images/adventure.mp4" type="video/mp4">
