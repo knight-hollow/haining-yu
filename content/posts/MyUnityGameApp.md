@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-11-1T13:00:25+02:00
+date = 2025-11-01T11:07:25+02:00
 title = "Unity Action Game — Development and iOS Export Summary"
 description = ""
 slug = ""
