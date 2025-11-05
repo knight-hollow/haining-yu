@@ -81,7 +81,7 @@ As training progresses, the reconstructed scene will appear in the right preview
 
 Once training is complete: The system will export a `.ply` file containing all Gaussian points with their color and spatial parameters.
 <div style="text-align: center;">  
-<img src="/haining-yu/images/export.png" alt="Brush Training Settings" width="600">
+<img src="/haining-yu/images/export.png" alt="export" width="600">
 </div> 
 
 ## 3. Clean and Edit the Point Cloud in Supersplat
