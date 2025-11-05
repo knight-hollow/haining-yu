@@ -178,6 +178,11 @@ All **3D models, textures, sound effects, and UI elements** used in this project
 They are used **solely for educational and research purposes**, following fair-use and non-commercial guidelines.  
 If any original authors of the materials request removal or attribution, appropriate credit or deletion will be provided.
 
+## Project Repository
+
+You can find the full Unity project and related files on GitHub:  
+👉 [**Unity_Project_LittleAdventure**](https://github.com/knight-hollow/Unity_Project_LittleAdventure.git)
+
 **Now Enjoy My Game - Little Adventure**      
 <video width="720" controls>
   <source src="/haining-yu/images/adventure.mp4" type="video/mp4">
